@@ -1,1 +1,1 @@
-Hi iam learning gt and github to contribute in open source
+Hi iam learning git and github to contribute in open source
